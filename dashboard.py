@@ -1,9 +1,3 @@
-"""
-FinSight Analytics - Interactive Dashboard
-Run:  python dashboard.py
-Open: http://127.0.0.1:8050
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
