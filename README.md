@@ -4,7 +4,7 @@ An interactive income, expense & savings analytics platform using Python Dash. I
 
 🚀 Getting Started
 1. Clone the repository
-bashgit clone https://github.com/your-username/finsight-analytics.git
+bashgit clone https://github.com/kaanad/finsight-analytics.git
 cd finsight-analytics
 2. Install dependencies
 bashpip install dash dash-bootstrap-components plotly pandas numpy scikit-learn scipy
@@ -13,8 +13,7 @@ Place your CSV file in the project folder and update the path in dashboard.py:
 pythonCSV = r"C:\path\to\your\incomedatasetnew.csv"
 4. Run the dashboard
 bashpython dashboard.py
-5. Open in your browser
-http://127.0.0.1:8050
+5. Open in your browser(local host)
 
 ⚠️ Keep the terminal open while using the dashboard — closing it stops the server.
 
